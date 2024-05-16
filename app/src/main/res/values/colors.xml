@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#00ACC1</color>
+    <color name="Green1">#D68305</color>
+    <color name="red1">#F44336</color>
+    <color name="sky1">#913f92</color>
+    <color name="yellow1">#009688</color>
+    <color name="mn">#FDD835</color>
+    <color name="sky2"> #80b9ba</color>
+   <color name="sky3">#470d1c</color>
+    <color name="Dg">#16353a</color>
+    <color name="bg">#43A047</color>
+    <color name="tbg">#101010</color>
+    <color name="act">#8C99AA</color>
+    <color name="wh">#F7F9FB</color>
+
+
+
+
+
+</resources>
